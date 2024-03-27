@@ -90,10 +90,10 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 ### Hard skills
 
 * Desenvolvimento WEB (Utilizando HTML5 & CSS3)
-> Sei fazer com autonomia.
+> Sei fazer com ajuda.
 
 * Controle de versionamento (GIT)  
-> Sei fazer com ajuda.
+> Sei fazer o básico, com autonomia.
 
 ### Soft skills
 

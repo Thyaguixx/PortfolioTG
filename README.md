@@ -8,7 +8,7 @@
 
 <Div align="justify" >
 
-<img align="right" src="https://raw.githubusercontent.com/Thyaguixx/PortifolioTG/main/imagens/thyago.jpg?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/Thyaguixx/PortifolioTG/main/imagens/ft_thyago.png?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
 
 Atualmente, sou estudante do 5º semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal, localizada em São José dos Campos. Meu interesse na área da tecnologia apareceu quando eu entrei no ensino médio integrado ao técnico em Automação Industrial, no Instituto Federal de São Paulo - Campos São José dos Campos. Logo no primeiro ano de curso, já me identifiquei com uma das matérias, que era Linguagem de Programação, onde tive o meu primeiro contato com a linguagem Python. Também tive contato com a linguagem C++, para programação de Arduínos, onde realizei um projeto em que o objetivo era montar um cubo de LED.
 

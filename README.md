@@ -38,6 +38,7 @@ Alguns dos cursos realizados e certificados.
 | :---   | :---    | :---      |
 | Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
 | MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
+| Certificação Desenvolvedor Genexus Júnior | Concluído |
 
 ## Projetos
 

@@ -30,7 +30,7 @@ No segundo semestre do meu curso, tive a oportunidade de participar de uma pales
  
 |Banco de dados|Frameworks|Linguagens|Outros|
 | :-------: | :--------: | :----: | :--------: |
-| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) |
 
 Alguns dos cursos realizados e certificados.
 
@@ -59,25 +59,22 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
  <details><summary>Tecnologias</summary>
    
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  > Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente.
   
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído do site da Fatec (APIs passadas) que era nosso principal objetivo.
+  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído dos sites onde buscamos as vagas, que era nosso principal objetivo.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.
-  
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
-  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout de nossas páginas.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para o 'web scraping' no site da Fatec, extraindo os links das informações das APIs passadas de todos os cursos.
+  > Utilizamos o Python para a raspagem de dados nos diversos sites com vagas de emprego, extraindo os links das páginas com as informações.
 
  </details>
  
@@ -86,7 +83,7 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação do site para a exibição dos links dos repositórios raspados e clonados e da página home do site utilizando HTML5 e CSS3, e também na parte de documentação do ReadMe do GitHub.
+Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na parte do Back-End, montei a lógica para a realização da raspagem dos dados, utilizando junto o framework Flask, para conectar com o Front-End. Na parte de Front-End realizei melhorias nas páginas, melhorando o visual e usabilidade.
 
 </Div>
 

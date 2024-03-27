@@ -89,7 +89,7 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 
 ### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3 & Flask (Python) )
+* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
 > Sei fazer com ajuda.
 
 * Controle de versionamento (GIT)  

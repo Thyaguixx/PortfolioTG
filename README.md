@@ -37,7 +37,7 @@ Alguns dos cursos realizados e certificados.
 |   Curso  |  Plataforma  |   Status    |
 | :---   | :---    | :---      |
 | Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
-| MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
+| MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Em andamento |
 | Certificação Desenvolvedor Genexus Júnior | GeneXus | Concluído |
 
 ## Projetos
@@ -50,7 +50,7 @@ Alguns dos cursos realizados e certificados.
 
 > [Link para a API do 1º Semetre](https://github.com/Thyaguixx/API--1-ADS)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em estabelecer e manter um site web que armazenasse todos os Projetos Integradores desenvolvidos na FATEC de São José dos Campos desde o início de sua implementação. Para alcançar esse objetivo, nossa equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem e clonagem dos repositórios git.
+O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu objetivo principal era desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Para alcançar esse objetivo, minha equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem de URLs para garantir as informações.
 
 </Div>
 

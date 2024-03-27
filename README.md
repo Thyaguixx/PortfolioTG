@@ -10,7 +10,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Thyaguixx/PortifolioTG/main/imagens/thyago.jpg?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
 
-Atualmente, sou estudante do 5º semestre do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, localizada em São José dos Campos. Meu interesse pela área de tecnologia e desenvolvimento de sistemas teve início durante minha formação técnica em Desenvolvimento de Sistemas na ETEC Machado de Assis, em Caçapava-SP. Foi nesse período que dei os primeiros passos na minha jornada, completando meu Trabalho de Conclusão de Curso, no qual desenvolvi um sistema de gerenciamento de estoque de medicamentos distribuídos gratuitamente pelo SUS, permitindo aos usuários verificar a disponibilidade desses medicamentos na central de distribuição sem a necessidade de deslocamento presencial.
+Atualmente, sou estudante do 5º semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal, localizada em São José dos Campos. Meu interesse na área da tecnologia apareceu quando eu entrei no ensino médio integrado ao técnico em Automação Industrial, no Instituto Federal de São Paulo - Campos São José dos Campos. Logo no primeiro ano de curso, já me identifiquei com uma das matérias, que era Linguagem de Programação, onde tive o meu primeiro contato com a linguagem Python.
 
 No terceiro semestre do meu curso, tive a oportunidade de participar de uma palestra de estágio promovida pela empresa JetSoft, situada no Parque Tecnológico, nas proximidades da Fatec. Consegui uma vaga de estágio nessa empresa e, desde então, venho adquirindo novas experiências. Durante meu período de estágio, participei de um treinamento em metodologia ágil e aprimorei diversas habilidades, tanto "soft skills" como a comunicação eficaz e o trabalho em equipe, quanto "hard skills" como programação em Genexus e o refinamento da minha lógica de programação.
 
@@ -21,7 +21,7 @@ No terceiro semestre do meu curso, tive a oportunidade de participar de uma pale
 ### Contatos
 
   <a href= "https://linkedin.com/in/DiasVictoria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://github.com/DiasVitoria" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href = "https://github.com/Thyaguixx" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <hr />  
 

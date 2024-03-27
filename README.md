@@ -1,6 +1,6 @@
 <Div align="center" >
 
-# Thyago Augusto Martins
+# Thyago Augusto Martins Silveira
 
 ## Sobre mim
 

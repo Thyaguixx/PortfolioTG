@@ -8,7 +8,7 @@
 
 <Div align="justify" >
 
-<img align="right" src="https://raw.githubusercontent.com/DiasVitoria/PortifolioTG/main/images/eu.png?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/Thyaguixx/PortifolioTG/main/imagens/thyago.jpg?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
 
 Atualmente, sou estudante do 5º semestre do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, localizada em São José dos Campos. Meu interesse pela área de tecnologia e desenvolvimento de sistemas teve início durante minha formação técnica em Desenvolvimento de Sistemas na ETEC Machado de Assis, em Caçapava-SP. Foi nesse período que dei os primeiros passos na minha jornada, completando meu Trabalho de Conclusão de Curso, no qual desenvolvi um sistema de gerenciamento de estoque de medicamentos distribuídos gratuitamente pelo SUS, permitindo aos usuários verificar a disponibilidade desses medicamentos na central de distribuição sem a necessidade de deslocamento presencial.
 

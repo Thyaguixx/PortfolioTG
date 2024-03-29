@@ -20,7 +20,7 @@ No meu 2º semestre do meu curso, tive a oportunidade de participar de uma pales
 
 ### Contatos
 
-  <a href= "https://linkedin.com/in/DiasVictoria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= "https://linkedin.com/in/thyago-silveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://github.com/Thyaguixx" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <hr />  

@@ -10,9 +10,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Thyaguixx/PortifolioTG/main/imagens/ft_thyago.png?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
 
-Atualmente, sou estudante do 5º semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal, localizada em São José dos Campos. Meu interesse na área da tecnologia apareceu quando eu entrei no ensino médio integrado ao técnico em Automação Industrial, no Instituto Federal de São Paulo - Campos São José dos Campos. Logo no primeiro ano de curso, já me identifiquei com uma das matérias, que era Linguagem de Programação, onde tive o meu primeiro contato com a linguagem Python. Também tive contato com a linguagem C++, para programação de Arduínos, onde realizei um projeto em que o objetivo era montar um cubo de LED.
+No momento atual, estou no 5º semestre de Análise e Desenvolvimento de Sistemas, cursando pela Fatec - Jessen Vidal.
+Desenvolvi meu interesse pela área quando tive a oportunidade de estudar Automação Industrial, juntamente com o meu ensino médio, no IFSP - São José dos Campos. No primeiro ano, identifiquei-me com a disciplina "Linguagem de Programação", tendo assim meu primeiro contato com Python e C++, que utilizamos conjuntamente para programar Arduínos (C++). Com tais aprendizados, desenvolvi um projeto cujo objetivo era montar um cubo de LED.
+No ensino superior, aproveitei a oportunidade de uma palestra para iniciar um processo seletivo na empresa JetSoft, onde comecei um estágio estando no 2º semestre do curso. Atualmente, fui efetivado na mesma, agora ocupando um cargo de Trainee.
 
-No meu 2º semestre do meu curso, tive a oportunidade de participar de uma palestra de estágio promovida pela empresa JetSoft, localizada no Parque Tecnológico. Após realizar um processo seletivo, consegui uma vaga de estágio nessa empresa e, desde então, venho adquirindo novas experiências. Durante este meu período de estágio, participei de um treinamento em metodologia ágil e aprimorei diversas habilidades, tanto "soft skills" como a comunicação eficaz e o trabalho em equipe, quanto "hard skills" como programação em Genexus e o aprimoramento e refinamento da minha lógica de programação e em meus conhecimentos de banco de dados. Graças ao meu desempenho durante meu estágio, pude ser evetivado nesta empresa, onde estou até os dias de hoje.
+Durante a inserção no mercado de trabalho, participei de diversos treinamentos que aumentariam o meu nível de habilidades interpessoais, como, por exemplo, metodologias ágeis e trabalho em equipe. Favorecido pelo ambiente, apliquei minhas habilidades técnicas, colocando em prática conceitos de programação, desde lógica até banco de dados.
 
 </Div>
 

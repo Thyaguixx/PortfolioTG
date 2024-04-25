@@ -241,11 +241,11 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
 
-> ### Em 2023-2
+### Em 2023-2
 
 <Div align="justify" >
 
-> [Link para a API do 3º Semetre](https://github.com/Thyaguixx/API-2023.2)
+> [Link para a API do 4º Semetre](https://github.com/Thyaguixx/API-2023.2)
 
 O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu objetivo principal era desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Para alcançar esse objetivo, minha equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem de URLs para garantir as informações.
 

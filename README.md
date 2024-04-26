@@ -117,7 +117,7 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 
 > [Link para a API do 2º Semetre](https://github.com/Thyaguixx/API--2-ADS)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu objetivo principal era desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Para alcançar esse objetivo, minha equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem de URLs para garantir as informações.
+O objetivo do projeto deste semestre era desenvolver uma aplicação Java Desktop a fim de registrar canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, com o propósito da empresa parceira acessar as finanças da instituição cadastrada, no qual o aplicativo deverá apresentar um sistema de cadastramento com usuário e operador, e páginas para cadastrar canais, edita-los e gerencia-los.
 
 </Div>
 
@@ -128,20 +128,17 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente.
   
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> Apache NetBeans 
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído dos sites onde buscamos as vagas, que era nosso principal objetivo.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java 
+  > Utilizamos a linguagem Java para desenvolver todo o projeto, tanto em frontend quanto em backend.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout de nossas páginas.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL 
+  > Utilizamos o MySQL como nosso sistema gerenciador de banco de dados.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para a raspagem de dados nos diversos sites com vagas de emprego, extraindo os links das páginas com as informações.
 
  </details>
  

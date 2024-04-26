@@ -128,7 +128,7 @@ O objetivo do projeto deste semestre era desenvolver uma aplicação Java Deskto
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente.
   
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> Apache NetBeans 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"/> Apache NetBeans 
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java 

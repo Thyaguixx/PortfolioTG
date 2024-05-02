@@ -147,31 +147,28 @@ O objetivo do projeto deste semestre era desenvolver uma aplicação Java Deskto
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na parte do Back-End, montei a lógica para a realização da raspagem dos dados, utilizando junto o framework Flask, para conectar com o Front-End. Na parte de Front-End realizei melhorias nas páginas, melhorando o visual e usabilidade.
+Neste projeto fiquei responsável tanto pelo Back-End. Na parte do Back-End, montei a lógica para a realização do CRUD dos canais e usuários. Fiquei responsável pelas consultas em nosso banco SQL para a listagem de canais e usuários já cadastrados no sistema.
 
 </Div>
 
 ### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
-> Sei fazer com ajuda.
+* Desenvolvimento de aplicação Desktop
+> Sei fazer com o básico, como um sistema simples.
 
-* Controle de versionamento (GIT)  
-> Sei fazer o básico, com autonomia.
+* Utilização de SGBD (Sistema de Gerenciamento de Bancos de Dados) e bancos relacionais (SQL)  
+> Sei fazer com autonomia.
 
 ### Soft skills
 
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
-
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+> Trabalhei muito a minha comunicação no projeto deste semestre, principalmente em momentos cruciais na parte de arquitetura do projeto como um todo. Também foi necessário durante uma das sprints, que tivemos desavenças com um de nossos membros da equipe, e tivemos que fazer uma decisão para que não fossemos prejudicados e que todos estivessem em um ambiente agrádavel para se trabalhar no projeto.
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+> Melhorei muito em relação à API do 1º Semestre, principalmente por envolver utilização de banco de dados SQL neste projeto. Consegui ser muito proativo quando pude adiantar itens de sprints futuras ao longo do projeto.
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> O trabalho em equipe foi essencial neste projeto, pelo fato de utilizar novas ferramentas que não conhecíamos ainda. Cadas descoberta era compartilhada com o time, fazendo com que o aprendizado de todos evoluíssem. Um exemplo de uma das sprint que tivemos, foi que eu havia feito o backend dos cadastros de canais e usuários, porém eu não sabia como colocar na parte de frontend, foi aí que um de meus colegas de equipe, que já havia feito uma parte do frontend, me mostrou como ele fez e como eu poderia fazer. Isto foi de grande ajuda, pois durantes as próximas atividades que fui realizando, pude aplicar os mesmo conhecimentos.
 
 ### Em 2023-1
 

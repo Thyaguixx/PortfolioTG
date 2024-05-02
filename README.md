@@ -172,7 +172,7 @@ Neste projeto fiquei responsável tanto pelo Back-End. Na parte do Back-End, mon
 
 ### Demonstração da entrega de uma das sprints do projeto
 
-
+<img align="center" src="img/sprint2-API-2.gif"/>
 
 ### Em 2023-1
 

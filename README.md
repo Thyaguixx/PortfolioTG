@@ -170,6 +170,10 @@ Neste projeto fiquei responsável tanto pelo Back-End. Na parte do Back-End, mon
 * Trabalho em equipe
 > O trabalho em equipe foi essencial neste projeto, pelo fato de utilizar novas ferramentas que não conhecíamos ainda. Cadas descoberta era compartilhada com o time, fazendo com que o aprendizado de todos evoluíssem. Um exemplo de uma das sprint que tivemos, foi que eu havia feito o backend dos cadastros de canais e usuários, porém eu não sabia como colocar na parte de frontend, foi aí que um de meus colegas de equipe, que já havia feito uma parte do frontend, me mostrou como ele fez e como eu poderia fazer. Isto foi de grande ajuda, pois durantes as próximas atividades que fui realizando, pude aplicar os mesmo conhecimentos.
 
+### Demonstração da entrega de uma das sprints do projeto
+
+
+
 ### Em 2023-1
 
 <Div align="justify" >

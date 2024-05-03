@@ -239,6 +239,11 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
 
+### Demonstração da entrega de uma das sprints do projeto
+
+<img align="center" src="/imagens/API-3-GIF-1.gif"/>
+<img align="center" src="/imagens/API-3-GIF-2.gif"/>
+
 ### Em 2023-2
 
 <Div align="justify" >

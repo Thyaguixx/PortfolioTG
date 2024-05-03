@@ -180,7 +180,7 @@ Neste projeto fiquei responsável tanto pelo Back-End. Na parte do Back-End, mon
 
 > [Link para a API do 3º Semetre](https://github.com/Thyaguixx/API--3-ADS)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu objetivo principal era desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Para alcançar esse objetivo, minha equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem de URLs para garantir as informações.
+O objetivo principal da API do 3º semestre foi desenvolver um sistema WEB de gerenciamento de usuários, assim como um serviço de autenticação/autorização.
 
 </Div>
 
@@ -194,17 +194,19 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído dos sites onde buscamos as vagas, que era nosso principal objetivo.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react.svg"/> React 
+  > Utilizamos o framework React para o desenvolvimento de todo o frontend do projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout de nossas páginas.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript.svg"/> Typescript 
+  > Utilizamos o typescript para o desenvolvimento de todo o backend do projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql.svg"/> PostgreSQL 
+  > Utilizamos o PostgreSQL para a raspagem de dados nos diversos sites com vagas de emprego, extraindo os links das páginas com as informações.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para a raspagem de dados nos diversos sites com vagas de emprego, extraindo os links das páginas com as informações.
+  
 
  </details>
  
@@ -213,7 +215,7 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na parte do Back-End, montei a lógica para a realização da raspagem dos dados, utilizando junto o framework Flask, para conectar com o Front-End. Na parte de Front-End realizei melhorias nas páginas, melhorando o visual e usabilidade.
+.
 
 </Div>
 
@@ -228,16 +230,16 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 ### Soft skills
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
+> .
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+> .
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+> .
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> .
 
 ### Demonstração da entrega de uma das sprints do projeto
 

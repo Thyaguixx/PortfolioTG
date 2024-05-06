@@ -153,7 +153,7 @@ Neste projeto fiquei responsável tanto pelo Back-End. Na parte do Back-End, mon
 
 ### Hard skills
 
-* Desenvolvimento de aplicação Desktop
+* Desenvolvimento de aplicação Desktop em JAVA
 > Sei fazer com o básico, como um sistema simples.
 
 * Utilização de SGBD (Sistema de Gerenciamento de Bancos de Dados) e bancos relacionais (SQL)  
@@ -187,26 +187,36 @@ O objetivo principal da API do 3º semestre foi desenvolver um sistema WEB de ge
 ### Tecnologias utilizadas
 
  <details><summary>Tecnologias</summary>
-   
+
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente.
   
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react.svg"/> React 
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/> React 
   > Utilizamos o framework React para o desenvolvimento de todo o frontend do projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript.svg"/> Typescript 
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"> NodeJS
+  > Utilizamos o Node.js em nosso projeto devido à sua capacidade de executar código JavaScript no servidor permitindo o desenvolvimento eficiente de aplicativos web em tempo real.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"> JavaScript
+  > Utilizamos o JavaScript para a realização dos cálculos no BackEnd.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"/> Typescript 
   > Utilizamos o typescript para o desenvolvimento de todo o backend do projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql.svg"/> PostgreSQL 
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png"/> PostgreSQL 
   > Utilizamos o PostgreSQL para a raspagem de dados nos diversos sites com vagas de emprego, extraindo os links das páginas com as informações.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
-  
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/3375/PNG/512/vercel_brand_icon_211876.png"/> Vercel 
+  > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
 
  </details>
  
@@ -252,7 +262,7 @@ O objetivo principal da API do 3º semestre foi desenvolver um sistema WEB de ge
 
 > [Link para a API do 4º Semetre](https://github.com/Thyaguixx/API-2023.2)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu objetivo principal era desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Para alcançar esse objetivo, minha equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem de URLs para garantir as informações.
+O objetivo do 4º semestre foi criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual.
 
 </Div>
 
@@ -266,17 +276,30 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído dos sites onde buscamos as vagas, que era nosso principal objetivo.
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/> React 
+  > Utilizamos o framework React para o desenvolvimento de todo o frontend do projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout de nossas páginas.
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"> NodeJS
+  > Utilizamos o Node.js em nosso projeto devido à sua capacidade de executar código JavaScript no servidor permitindo o desenvolvimento eficiente de aplicativos web em tempo real.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"> JavaScript
+  > Utilizamos o JavaScript para a realização dos cálculos no BackEnd.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"/> Typescript 
+  > Utilizamos o typescript para o desenvolvimento de todo o backend do projeto.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png"/> PostgreSQL 
+  > Utilizamos o PostgreSQL para a raspagem de dados nos diversos sites com vagas de emprego, extraindo os links das páginas com as informações.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para a raspagem de dados nos diversos sites com vagas de emprego, extraindo os links das páginas com as informações.
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/3375/PNG/512/vercel_brand_icon_211876.png"/> Vercel 
+  > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
+
 
  </details>
  
@@ -285,28 +308,28 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na parte do Back-End, montei a lógica para a realização da raspagem dos dados, utilizando junto o framework Flask, para conectar com o Front-End. Na parte de Front-End realizei melhorias nas páginas, melhorando o visual e usabilidade.
+.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento WEB (Utilizando HTML5 & CSS3)
-> Sei fazer com ajuda.
+> .
 
 * Controle de versionamento (GIT)  
-> Sei fazer o básico, com autonomia.
+> .
 
 ### Soft skills
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
+> .
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+> .
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+> .
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> .

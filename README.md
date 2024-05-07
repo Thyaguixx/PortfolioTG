@@ -231,11 +231,11 @@ O objetivo principal da API do 3º semestre foi desenvolver um sistema WEB de ge
 
 ### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
-> Sei fazer com ajuda.
+* Desenvolvimento WEB (Utilizando React)
+> Sei fazer com autonomia.
 
-* Controle de versionamento (GIT)  
-> Sei fazer o básico, com autonomia.
+* Desenvolvimente Backend (Utilizando NodeJS com Javascript e Typescript)  
+> Sei fazer com autonomia.
 
 ### Soft skills
 

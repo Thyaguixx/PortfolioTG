@@ -225,7 +225,7 @@ O objetivo principal da API do 3º semestre foi desenvolver um sistema WEB de ge
 
 <Div align="justify" >
 
-.
+Neste projeto, fiquei responsável pela parte do backend como um todo, isso inclui a parte da modelagem do nosso banco de dados e o controle do sistema, juntamente com algumas partes do frontend. Na parte de controle do sistema, montei a parte de cadastro de usuário, participando também da criação das telas de cadastro. Atuei na parte de Login do sistema, montando a lógica para recuperar os dados do usuário para manter logado. Na parte de visualização e edição de usuário, fui o responsável por criar tanto o backend, quanto o frontend. Pude contar com a colaboração de meus companheiros de equipe na parte de frontend, onde tenho menos conhecimento.
 
 </Div>
 
@@ -234,22 +234,21 @@ O objetivo principal da API do 3º semestre foi desenvolver um sistema WEB de ge
 * Desenvolvimento WEB (Utilizando React)
 > Sei fazer com autonomia.
 
-* Desenvolvimente Backend (Utilizando NodeJS com Javascript e Typescript)  
+* Desenvolvimento Backend (Utilizando NodeJS com Javascript e Typescript)  
+> Sei fazer com autonomia.
+
+* Deploy de aplicações (Utilizando Vercel)  
 > Sei fazer com autonomia.
 
 ### Soft skills
 
-* Organização 
-> .
+Além das citadas acima:
 
-* Comunicação 
-> .
- 
-* Proatividade
-> .
+* Gerenciamento do tempo
+> Adquirida meio da organização e gestão eficiente do tempo, dando prioridade às tarefas e garantindo o cumprimento dos prazos. Isso se tornou crucial devido ao fato de que a tecnologia utilizada era nova para mim, sendo uma grande mudança em relação a uma aplicação Desktop, exigindo uma dedicação adicional para pesquisa e estudo.
 
-* Trabalho em equipe
-> .
+* Adaptabilidade
+> Segui um dos princípios ágeis: "Mudanças são bem-vindas, mesmo que tardiamente". Adquirida com o desafio de me adaptar às uma novas tecnologias.
 
 ### Demonstração da entrega de uma das sprints do projeto
 
@@ -314,11 +313,14 @@ O objetivo do 4º semestre foi criar uma plataforma que gerencie os créditos a 
 
 ### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
-> .
+* Desenvolvimento WEB (Utilizando React)
+> Sei fazer com autonomia.
 
-* Controle de versionamento (GIT)  
-> .
+* Desenvolvimento Backend (Utilizando NodeJS com Javascript e Typescript)  
+> Sei fazer com autonomia.
+
+* Deploy de aplicações (Utilizando Vercel)  
+> Sei fazer com autonomia.
 
 ### Soft skills
 

@@ -333,3 +333,8 @@ O objetivo do 4º semestre foi criar uma plataforma que gerencie os créditos a 
 
 * Trabalho em equipe
 > .
+
+### Demonstração da entrega de uma das sprints do projeto
+
+<img align="center" src="/imagens/4-sem-ValidacaoEmailGIF.gif"/>
+<img align="center" src="/imagens/4-sem-DemonstracaoParametrizacaoGIF.gif"/>

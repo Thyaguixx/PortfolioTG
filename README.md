@@ -159,6 +159,9 @@ Neste projeto fiquei responsável tanto pelo Back-End. Na parte do Back-End, mon
 * Utilização de SGBD (Sistema de Gerenciamento de Bancos de Dados) e bancos relacionais (SQL)  
 > Sei fazer com autonomia.
 
+* Controle de versionamento (GIT)  
+> Sei fazer o básico, com autonomia.
+
 ### Soft skills
 
 * Comunicação 
@@ -239,6 +242,9 @@ Neste projeto, fiquei responsável pela parte do backend como um todo, isso incl
 
 * Deploy de aplicações (Utilizando Vercel)  
 > Sei fazer com autonomia.
+
+* Controle de versionamento (GIT)  
+> Sei fazer o básico, com autonomia.
 
 ### Soft skills
 
@@ -321,6 +327,9 @@ O objetivo do 4º semestre foi criar uma plataforma que gerencie os créditos a 
 
 * Deploy de aplicações (Utilizando Vercel)  
 > Sei fazer com autonomia.
+
+* Controle de versionamento (GIT)  
+> Sei fazer o básico, com autonomia.
 
 ### Soft skills
 

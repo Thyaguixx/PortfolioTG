@@ -14,7 +14,7 @@ No momento atual, estou no 5º semestre de Análise e Desenvolvimento de Sistema
 Desenvolvi meu interesse pela área quando tive a oportunidade de estudar Automação Industrial, juntamente com o meu ensino médio, no IFSP - São José dos Campos. No primeiro ano, identifiquei-me com a disciplina "Linguagem de Programação", tendo assim meu primeiro contato com Python e C++, que utilizamos conjuntamente para programar Arduínos (C++). Com tais aprendizados, desenvolvi um projeto cujo objetivo era montar um cubo de LED.
 No ensino superior, aproveitei a oportunidade de uma palestra para iniciar um processo seletivo na empresa JetSoft, onde comecei um estágio estando no 2º semestre do curso. Atualmente, fui efetivado na mesma, agora ocupando um cargo de Trainee.
 
-Durante a inserção no mercado de trabalho, participei de diversos treinamentos que aumentariam o meu nível de habilidades interpessoais, como, por exemplo, metodologias ágeis e trabalho em equipe. Favorecido pelo ambiente, apliquei minhas habilidades técnicas, colocando em prática conceitos de programação, desde lógica até banco de dados.
+Durante a inserção no mercado de trabalho, participei de diversos treinamentos que aumentaram o meu nível de habilidades interpessoais, como, por exemplo, metodologias ágeis e trabalho em equipe. Favorecido pelo ambiente, apliquei minhas habilidades técnicas, colocando em prática conceitos de programação, desde lógica até banco de dados.
 
 </Div>
 
@@ -171,7 +171,7 @@ Neste projeto fiquei responsável tanto pelo Back-End. Na parte do Back-End, mon
 > Melhorei muito em relação à API do 1º Semestre, principalmente por envolver utilização de banco de dados SQL neste projeto. Consegui ser muito proativo quando pude adiantar itens de sprints futuras ao longo do projeto.
 
 * Trabalho em equipe
-> O trabalho em equipe foi essencial neste projeto, pelo fato de utilizar novas ferramentas que não conhecíamos ainda. Cadas descoberta era compartilhada com o time, fazendo com que o aprendizado de todos evoluíssem. Um exemplo de uma das sprint que tivemos, foi que eu havia feito o backend dos cadastros de canais e usuários, porém eu não sabia como colocar na parte de frontend, foi aí que um de meus colegas de equipe, que já havia feito uma parte do frontend, me mostrou como ele fez e como eu poderia fazer. Isto foi de grande ajuda, pois durantes as próximas atividades que fui realizando, pude aplicar os mesmo conhecimentos.
+> O trabalho em equipe foi essencial neste projeto, pelo fato de utilizar novas ferramentas que não conhecíamos ainda. Cada descoberta era compartilhada com o time, fazendo com que o aprendizado de todos evoluíssem. Um exemplo de uma das sprint que tivemos, foi que eu havia feito o backend dos cadastros de canais e usuários, porém eu não sabia como colocar na parte de frontend, foi aí que um de meus colegas de equipe, que já havia feito uma parte do frontend, me mostrou como ele fez e como eu poderia fazer. Isto foi de grande ajuda, pois durante as próximas atividades que fui realizando, pude aplicar os mesmo conhecimentos.
 
 ### Demonstração da entrega de uma das sprints do projeto
 

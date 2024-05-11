@@ -313,7 +313,7 @@ O objetivo do 4º semestre foi criar uma plataforma que gerencie os créditos a 
 
 <Div align="justify" >
 
-.
+No projeto deste semestre, atuei tanto na parte de backend, quanto na parte de frontend. Fiquei responsável por criar a modelagem do nosso banco de dados, junto de meu companheiro de equipe. Participei da montagem das telas de cadastro, login e dashboard, juntamente com toda a lógica de programação destes mesmos.
 
 </Div>
 
@@ -333,17 +333,14 @@ O objetivo do 4º semestre foi criar uma plataforma que gerencie os créditos a 
 
 ### Soft skills
 
-* Organização 
-> .
-
-* Comunicação 
-> .
+* Comunicação eficaz
+> A partir desse semestre, tive a oportunidade de me conectar com uma nova equipe, onde pude aperfeiçoar a minha comunicação, pois, as ideias individuais agregaram o coletivo nas soluções das futuras entregas de valor, possibilitando o meu desenvolvimento e crescimento pessoal.
  
-* Proatividade
-> .
+* Inteligência emocional
+> Adquirida num momento em que era necessário entender o ponto de vista e o sentimento de meu companheiro de equipe.
 
-* Trabalho em equipe
-> .
+* Liderança
+> Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto. Um exemplo é: no momento em que decidimos os critérios de entrega, onde me ofereci para iniciar a parte de modelagem do banco de dados, podendo assim repassar para os demais membros do grupo a seguir.
 
 ### Demonstração da entrega de uma das sprints do projeto
 

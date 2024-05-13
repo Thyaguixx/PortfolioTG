@@ -147,7 +147,7 @@ O objetivo do projeto deste semestre era desenvolver uma aplicação Java Deskto
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável tanto pelo Back-End. Na parte do Back-End, montei a lógica para a realização do CRUD dos canais e usuários. Fiquei responsável pelas consultas em nosso banco SQL para a listagem de canais e usuários já cadastrados no sistema.
+Neste projeto, fiquei responsável pelo backend, onde montei a lógica para a realização do CRUD dos canais e usuários. Fiquei responsável pelas consultas em nosso banco SQL para a listagem de canais e usuários já cadastrados no sistema.
 
 </Div>
 
@@ -183,7 +183,7 @@ Neste projeto fiquei responsável tanto pelo Back-End. Na parte do Back-End, mon
 
 > [Link para a API do 3º Semetre](https://github.com/Thyaguixx/API--3-ADS)
 
-O objetivo principal da API do 3º semestre foi desenvolver um sistema WEB de gerenciamento de usuários, assim como um serviço de autenticação/autorização.
+O objetivo principal da API do 3º semestre foi desenvolver um sistema WEB de gerenciamento de usuários, assim como um serviço de autenticação/autorização. A empresa parceira dessa vez foi a Visiona, uma empresa voltada para a integração de sistemas espaciais e à prestação de serviços baseados em satélites.
 
 </Div>
 

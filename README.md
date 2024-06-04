@@ -346,3 +346,70 @@ No projeto deste semestre, atuei tanto na parte de backend, quanto na parte de f
 
 <img align="center" src="/imagens/4-sem-ValidacaoEmailGIF.gif"/>
 <img align="center" src="/imagens/4-sem-DemonstracaoParametrizacaoGIF.gif"/>
+
+### Em 2024-1
+
+<Div align="justify" >
+
+> [Link para a API do 5º Semestre](https://github.com/4DeskGroup/API-2024.1)
+
+O projeto integrador do 5º semestre do curso envolveu colaboração com cliente Oracle. Seu propósito central consistia em desenvolver um sistema de gestão de parceiros, para dispositivos móveis (mobile). Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
+
+As páginas desenvolvidas no projeto como requisitos funcionais foram:
+- Tela login, tela cadastro de parceiros e consultores de alianças, tela dashboard com os usuários e o desempenho dos parceiros por Tracks, tela home para administrador e consultor de alianças.
+
+</Div>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Neste projeto fiquei responsável pelo back-end, e o no front-end apenas para fazer a conexão com o nosso back-end. No back-end, realizei a modelagem de nosso banco de dados, juntamente com um colega de equipe. Foi um grande desafio, pois foi meu primeiro contato com um banco NoSQL, e achei muito interessante conforme fui realizando as atividades. A forma de trabalhar utilizando um JSON como estrutura de nosso banco foi muito empolgante, para mim. Além disso, fui responsável por criar a função de Login do sistema, e a exclusão e edição de usuários. Utilizei javascript como linguagem principal no desenvolvimento do back-end, junto com typescript em alguns casos e alguns frameworks para auxiliar no uso do MongoDB.
+
+### Resultado das páginas em front-end:
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' height='400'>
+ 
+</div>
+
+### Tecnologias utilizadas
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
+ > Utilizamos React para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
+ > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
+ > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> Mongodb
+ > Utilizamos o Mongodb como nosso banco de dados.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+ <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
+  > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
+
+### Hard skills
+
+* Utilização de banco de dados NoSQL (MongoDB):
+> Sei fazer o básico, com autonomia.
+
+* Desenvolvimento de aplicação Mobile utilizando React-Native e Javascript:
+> Sei fazer o básico, com autonomia.
+
+### Soft skills
+
+* Comunicação 
+> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto.
+ 
+* Proatividade
+> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias. Realizei spikes (pequenos testes utilizando a ferramenta que iríamos utilizar) durante nossa sprint 0, para termos uma boa base no começo do desenvolvimento da aplicação.

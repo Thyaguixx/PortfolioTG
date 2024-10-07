@@ -386,7 +386,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
  <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
   > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
-<details />
+</details>
 
 ### Contribuições pessoais
 

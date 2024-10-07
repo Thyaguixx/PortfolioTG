@@ -363,29 +363,30 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 ### Tecnologias utilizadas
 
  <details><summary>Tecnologias</summary>
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo apresentado ao cliente.
-
+    <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+    > Utilizado para desenvolver o protótipo Wireframe apresentado ao cliente.
+  
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
- > Utilizamos React para o desenvolvimento da aplicação web.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
- > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
- > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> Mongodb
- > Utilizamos o Mongodb como nosso banco de dados.
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
+   > Utilizamos React para o desenvolvimento da aplicação web.
+  
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
+   > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
+  
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
+   > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+  
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> Mongodb
+   > Utilizamos o Mongodb como nosso banco de dados.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
  <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
   > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
+
 </details>
 
 ### Contribuições pessoais
@@ -412,6 +413,6 @@ Neste projeto fiquei responsável pelo back-end, e o no front-end apenas para fa
 * Proatividade
 > Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias. Realizei spikes (pequenos testes utilizando a ferramenta que iríamos utilizar) durante nossa sprint 0, para termos uma boa base no começo do desenvolvimento da aplicação.
 
-### Demonstração da aplicação:
+### Demonstração da entrega de uma das sprints do projeto:
  <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
  <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' height='400'>

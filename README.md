@@ -53,7 +53,7 @@ Alguns dos cursos realizados e certificados.
 > [Link para a API do 1º Semetre](https://github.com/Thyaguixx/API--1-ADS)
 
 ### Problema
-O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas surgiu a partir de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação, abrangendo diversas áreas de atuação. Essa lacuna dificultava a busca de alunos e profissionais por oportunidades relevantes, tornando o processo mais trabalhoso e ineficiente.
+O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso surgiu a partir de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação, abrangendo diversas áreas de atuação. Essa lacuna dificultava a busca de alunos e profissionais por oportunidades relevantes, tornando o processo mais trabalhoso e ineficiente.
 
 ### Solução proposta
 A solução proposta foi o desenvolvimento de um sistema web para automatizar o processo de catalogar vagas de diversas profissões, principalmente TI, e configurar métricas para pontos como tipos de conhecimento, habilidades e competências, utilizando técnicas de raspagem de dados para coletar informações relevantes de diversas fontes. O site oferece uma interface amigável e organizada, fazendo com que os usuários busquem e visualizem facilmente as oportunidades disponíveis em um único local. As tecnologias utilizadas (HTML, CSS e Python) fizeram com que fosse possível ter um sistema agradável e funcional, aumentando a produtividade para o cliente.
@@ -128,7 +128,7 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 > [Link para a API do 2º Semetre](https://github.com/Thyaguixx/API--2-ADS)
 
 ### Problema
-No projeto de Aprendizagem por Projetos Integrados do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas, identificou-se uma necessidade crítica da TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A empresa enfrenta desafios na gestão e segurança de dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP e credenciais de acesso, incluindo senhas e tokens dos clientes.
+No projeto do 2º Semestre do curso, identificou-se uma necessidade crítica da TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A empresa enfrenta desafios na gestão e segurança de dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP e credenciais de acesso, incluindo senhas e tokens dos clientes.
 
 ### Solução proposta
 Para solucionar esse problema, foi proposto o desenvolvimento de um aplicativo Desktop, para o registro de canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, permitindo à TrackCash interagir de maneira eficiente com as informações coletadas. O aplicativo foi criado utilizando tecnologias como Java para o desenvolvimento do front-end e back-end, e MySQL como sistema de gerenciamento de banco de dados. Essa abordagem não só atendeu às necessidades específicas do cliente, mas também proporcionou uma interface amigável e um funcionamente de aprendizado simples e rápido, melhorando significativamente a eficiência e produtividade do cliente.
@@ -197,7 +197,16 @@ Neste projeto, fiquei responsável pelo backend, onde montei a lógica para a re
 
 > [Link para a API do 3º Semetre](https://github.com/Thyaguixx/API--3-ADS)
 
-O objetivo principal da API do 3º semestre foi desenvolver um sistema WEB de gerenciamento de usuários, assim como um serviço de autenticação/autorização. A empresa parceira dessa vez foi a Visiona, uma empresa voltada para a integração de sistemas espaciais e à prestação de serviços baseados em satélites.
+### Problema
+O projeto 3º Semestre do curso teve como parceira a Visiona, uma empresa do setor espacial, voltada para a integração de sistemas espaciais e à prestação de serviços baseados em satélites. O problema identificado foi a necessidade de uma aplicação centralizada para gerenciar usuários. A Visiona buscava uma ferramenta que facilitasse o controle de usuários no sistema, permitindo aos administradores realizar operações como cadastros e edições de forma eficiente.
+
+### Solução proposta
+A solução proposta foi um sistema de Gerenciamento de Usuários baseado em tecnologia de microserviços. A aplicação permite que os usuários sejam criados, visualizados, editados e removidos de maneira intuitiva e segura. Utilizando React para o front-end e JavaScript para o back-end, além de PostgreSQL para gerenciamento de banco de dados, o sistema proporciona uma interface amigável e funcional, como login, recuperação de senha e dashboards informativos. A implementação e o deployment foram realizados na plataforma Vercel, garantindo uma solução completa e integrada para a Visiona.
+
+### Demonstração da entrega de uma das sprints do projeto
+
+<img align="center" src="/imagens/API-3-GIF-1.gif"/>
+<img align="center" src="/imagens/API-3-GIF-2.gif"/>
 
 </Div>
 
@@ -269,11 +278,6 @@ Além das citadas acima:
 
 * Adaptabilidade
 > Segui um dos princípios ágeis: "Mudanças são bem-vindas, mesmo que tardiamente". Adquirida com o desafio de me adaptar às uma novas tecnologias.
-
-### Demonstração da entrega de uma das sprints do projeto
-
-<img align="center" src="/imagens/API-3-GIF-1.gif"/>
-<img align="center" src="/imagens/API-3-GIF-2.gif"/>
 
 ### Em 2023-2
 

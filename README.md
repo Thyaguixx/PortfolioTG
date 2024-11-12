@@ -12,7 +12,7 @@
 
 No momento atual, estou no 5º semestre de Análise e Desenvolvimento de Sistemas, cursando pela Fatec - Jessen Vidal.
 Desenvolvi meu interesse pela área quando tive a oportunidade de estudar Automação Industrial, juntamente com o meu ensino médio, no IFSP - São José dos Campos. No primeiro ano, identifiquei-me com a disciplina "Linguagem de Programação", tendo assim meu primeiro contato com Python e C++, que utilizamos conjuntamente para programar Arduínos (C++). Com tais aprendizados, desenvolvi um projeto cujo objetivo era montar um cubo de LED.
-No ensino superior, aproveitei a oportunidade de uma palestra para iniciar um processo seletivo na empresa JetSoft, onde comecei um estágio estando no 2º semestre do curso. Atualmente, fui efetivado na mesma, agora ocupando um cargo de Trainee.
+No ensino superior, aproveitei a oportunidade de uma palestra para iniciar um processo seletivo na empresa JetSoft, onde comecei um estágio estando no 2º semestre do curso. No início deste ano, fui efetivado na mesma, ocupando um cargo de Trainee. Atualmente, cerca de 1 mês atrás, fui promovido para Desenvolvedor Júnior 3, na mesma empresa.
 
 Durante a inserção no mercado de trabalho, participei de diversos treinamentos que aumentaram o meu nível de habilidades interpessoais, como, por exemplo, metodologias ágeis e trabalho em equipe. Favorecido pelo ambiente, apliquei minhas habilidades técnicas, colocando em prática conceitos de programação, desde lógica até banco de dados.
 
@@ -52,7 +52,11 @@ Alguns dos cursos realizados e certificados.
 
 > [Link para a API do 1º Semetre](https://github.com/Thyaguixx/API--1-ADS)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu objetivo principal era desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Para alcançar esse objetivo, minha equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem de URLs para garantir as informações.
+### Problema
+O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas surgiu a partir de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação, abrangendo diversas áreas de atuação. Essa lacuna dificultava a busca de alunos e profissionais por oportunidades relevantes, tornando o processo mais trabalhoso e ineficiente.
+
+### Solução proposta
+A solução proposta foi o desenvolvimento de um sistema web para automatizar o processo de catalogar vagas de diversas profissões, principalmente TI, e configurar métricas para pontos como tipos de conhecimento, habilidades e competências, utilizando técnicas de raspagem de dados para coletar informações relevantes de diversas fontes. O site oferece uma interface amigável e organizada, fazendo com que os usuários busquem e visualizem facilmente as oportunidades disponíveis em um único local. As tecnologias utilizadas (HTML, CSS e Python) fizeram com que fosse possível ter um sistema agradável e funcional, aumentando a produtividade para o cliente.
 
 </Div>
 

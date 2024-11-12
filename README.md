@@ -58,6 +58,11 @@ O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de An
 ### Solução proposta
 A solução proposta foi o desenvolvimento de um sistema web para automatizar o processo de catalogar vagas de diversas profissões, principalmente TI, e configurar métricas para pontos como tipos de conhecimento, habilidades e competências, utilizando técnicas de raspagem de dados para coletar informações relevantes de diversas fontes. O site oferece uma interface amigável e organizada, fazendo com que os usuários busquem e visualizem facilmente as oportunidades disponíveis em um único local. As tecnologias utilizadas (HTML, CSS e Python) fizeram com que fosse possível ter um sistema agradável e funcional, aumentando a produtividade para o cliente.
 
+### Demonstração da entrega de uma das sprints do projeto
+
+<img align="center" src="/imagens/gif-localizacao-1sem.gif"/>
+<img align="center" src="/imagens/gif-metricas-1sem.gif"/>
+
 </Div>
 
 ### Tecnologias utilizadas
@@ -110,10 +115,10 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 > Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints. Na primeira sprint, estávamos nos entrosando como companheiros de equipe. Já nas seguintes, evoluimos muito como equipe, e já estavamos conseguindo ter um ótimo resultado e um ótimo trabalho em equipe.
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> Adquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto. Sendo o primeiro semestre, todos os integrantes da equipe tinham dúvidas das tecnologias, e aqueles que já sabiam como funcionavam, eram de grande ajuda para conseguirmos bons resultados e evoluir nosso aprendizado.
 
 ### Em 2022-2
 

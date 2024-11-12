@@ -61,6 +61,7 @@ A solução proposta foi o desenvolvimento de um sistema web para automatizar o 
 ### Demonstração da entrega de uma das sprints do projeto
 
 <img align="center" src="/imagens/gif-localizacao-1sem.gif"/>
+<br>
 <img align="center" src="/imagens/gif-metricas-1sem.gif"/>
 
 </Div>
@@ -126,7 +127,15 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 
 > [Link para a API do 2º Semetre](https://github.com/Thyaguixx/API--2-ADS)
 
-O objetivo do projeto deste semestre era desenvolver uma aplicação Java Desktop a fim de registrar canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, com o propósito da empresa parceira acessar as finanças da instituição cadastrada, no qual o aplicativo deverá apresentar um sistema de cadastramento com usuário e operador, e páginas para cadastrar canais, edita-los e gerencia-los.
+### Problema
+No projeto de Aprendizagem por Projetos Integrados do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas, identificou-se uma necessidade crítica da TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A empresa enfrenta desafios na gestão e segurança de dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP e credenciais de acesso, incluindo senhas e tokens dos clientes.
+
+### Solução proposta
+Para solucionar esse problema, foi proposto o desenvolvimento de um aplicativo Desktop, para o registro de canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, permitindo à TrackCash interagir de maneira eficiente com as informações coletadas. O aplicativo foi criado utilizando tecnologias como Java para o desenvolvimento do front-end e back-end, e MySQL como sistema de gerenciamento de banco de dados. Essa abordagem não só atendeu às necessidades específicas do cliente, mas também proporcionou uma interface amigável e um funcionamente de aprendizado simples e rápido, melhorando significativamente a eficiência e produtividade do cliente.
+
+### Demonstração da entrega de uma das sprints do projeto
+
+<img align="center" src="/imagens/sprint-2-API-2.gif"/>
 
 </Div>
 
@@ -181,10 +190,6 @@ Neste projeto, fiquei responsável pelo backend, onde montei a lógica para a re
 
 * Trabalho em equipe
 > O trabalho em equipe foi essencial neste projeto, pelo fato de utilizar novas ferramentas que não conhecíamos ainda. Cada descoberta era compartilhada com o time, fazendo com que o aprendizado de todos evoluíssem. Um exemplo de uma das sprint que tivemos, foi que eu havia feito o backend dos cadastros de canais e usuários, porém eu não sabia como colocar na parte de frontend, foi aí que um de meus colegas de equipe, que já havia feito uma parte do frontend, me mostrou como ele fez e como eu poderia fazer. Isto foi de grande ajuda, pois durante as próximas atividades que fui realizando, pude aplicar os mesmo conhecimentos.
-
-### Demonstração da entrega de uma das sprints do projeto
-
-<img align="center" src="/imagens/sprint-2-API-2.gif"/>
 
 ### Em 2023-1
 

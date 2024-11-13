@@ -285,7 +285,16 @@ Além das citadas acima:
 
 > [Link para a API do 4º Semetre](https://github.com/Thyaguixx/API-2023.2)
 
-O objetivo do 4º semestre foi criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual.
+### Problema
+O projeto do 4º Semestre no curso envolveu uma parceiria com a Greenneat, uma empresa do ramo de controle e descarte de óleo usado. O problema identificado pelo cliente foi a falta de uma plataforma para gerenciar seus usuários e seus créditos, que funcionavam como moedas de troca para transações de óleo usado, permitindo assim seus clientes obterem benefícios e descontos na loja virtual da empresa. A Greenneat necessitava de uma solução que permitisse o controle destas transações de créditos, tanto na compra e venda, além de uma ferramenta para gerenciar esses usuários de forma centralizada.
+
+### Solução proposta
+O desenvolvimento de uma plataforma capaz de gerenciar os créditos de uma forma centralizada, possibilitando os usuários acompanharem suas ações durante o processo de coleta. A aplicação foi desenvolvida utilizando React para o front-end, JavaScript com TypeScript para o back-end, e PostgreSQL como sistema de gerenciamento de banco de dados. O sistema inclui funcionalidades de login, recuperação de senha e gerenciamento de créditos, além de uma interface intuitiva com uma navegação simples e a visualização das informações essenciais. Para o deploy da aplicação, seguimos utilizando uma plataforma já utilizada anteriormente em outros projetos, o Vercel, podendo assim ter um acesso fácil para nosso cliente, a GREENNEAT.
+
+### Demonstração da entrega de uma das sprints do projeto
+
+<img align="center" src="/imagens/4-sem-ValidacaoEmailGIF.gif"/>
+<img align="center" src="/imagens/4-sem-DemonstracaoParametrizacaoGIF.gif"/>
 
 </Div>
 
@@ -360,21 +369,24 @@ No projeto deste semestre, atuei tanto na parte de backend, quanto na parte de f
 * Liderança
 > Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto. Um exemplo é: no momento em que decidimos os critérios de entrega, onde me ofereci para iniciar a parte de modelagem do banco de dados, podendo assim repassar para os demais membros do grupo a seguir.
 
-### Demonstração da entrega de uma das sprints do projeto
-
-<img align="center" src="/imagens/4-sem-ValidacaoEmailGIF.gif"/>
-<img align="center" src="/imagens/4-sem-DemonstracaoParametrizacaoGIF.gif"/>
-
 ### Em 2024-1
 
 <Div align="justify" >
 
 > [Link para a API do 5º Semestre](https://github.com/4DeskGroup/API-2024.1)
 
-O projeto integrador do 5º semestre do curso envolveu colaboração com cliente Oracle. Seu propósito central consistia em desenvolver um sistema de gestão de parceiros, para dispositivos móveis (mobile). Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
+### Problema
+O projeto integrador do 5º Semestre no curso teve a participação de uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs, a Oracle. O desafio identificado foi o desenvolvimento de uma aplicação mobile que gerenciasse o sistema de progressão de trilhas de conhecimento e especializações dos parceiros cadastrados no sistema da empresa. A Oracle precisava de uma solução que centralizasse essas informações de parceiros, trilhas de aprendizado e especializações vinculadas, além de poder monitorar o progresso de seus parceiros. Era de extrema importância também que a aplicação oferecesse diferentes níveis de acesso para administradores, garantindo assim a segurança e a personalização das informações acessíveis a cada usuário.
+
+### Solução proposta
+Para solucionar este problema, desenvolvemos uma plataforma para dispositivos móveis, utilizando React Native, que possibilita uma gestão eficiente de informações relacionadas aos parceiros e suas trilhas. O sistema foi projetado para permitir o acompanhamento do desenvolvimento dos parceiros através de dashboards interativas, incluindo relatórios detalhados sobre suas atividades. Utilizamos o MongoDB, um banco de dados não relacional, para armazenar os dados de nossa aplicação. O desenvolvimento incluiu tanto o front-end quanto o back-end, permitindo a integração de funções críticas que garantem a fluidez e a funcionalidade da plataforma, atendendo assim às demandas da Oracle de forma eficaz e escalável.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Tela login, tela cadastro de parceiros e consultores de alianças, tela dashboard com os usuários e o desempenho dos parceiros por Tracks, tela home para administrador e consultor de alianças.
+
+### Demonstração da entrega de uma das sprints do projeto:
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' height='400'>
 
 </Div>
 
@@ -430,10 +442,6 @@ Neste projeto fiquei responsável pelo back-end, e o no front-end apenas para fa
  
 * Proatividade
 > Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias. Realizei spikes (pequenos testes utilizando a ferramenta que iríamos utilizar) durante nossa sprint 0, para termos uma boa base no começo do desenvolvimento da aplicação.
-
-### Demonstração da entrega de uma das sprints do projeto:
- <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
- <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' height='400'>
 
 
 ### 2024.2

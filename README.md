@@ -458,7 +458,7 @@ Como proposta de solução, minha equipe e eu separamos o projeto em repositóri
 
 ### Demonstração da entrega de uma das sprints do projeto
 
-<img width="30%" height="30%" src="https://github.com/4DeskGroup/API-2024.2/blob/main/docs%20sprints/sprint2.gif"/>
+<img align="center" src="https://github.com/4DeskGroup/API-2024.2/blob/main/docs%20sprints/sprint2.gif"/>
 
 </Div>
 

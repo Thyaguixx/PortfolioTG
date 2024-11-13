@@ -10,7 +10,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Thyaguixx/PortifolioTG/main/imagens/ft_thyago.png?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
 
-No momento atual, estou no 5º semestre de Análise e Desenvolvimento de Sistemas, cursando pela Fatec - Jessen Vidal.
+No momento atual, estou no 6º semestre de Análise e Desenvolvimento de Sistemas, cursando pela Fatec - Jessen Vidal.
 Desenvolvi meu interesse pela área quando tive a oportunidade de estudar Automação Industrial, juntamente com o meu ensino médio, no IFSP - São José dos Campos. No primeiro ano, identifiquei-me com a disciplina "Linguagem de Programação", tendo assim meu primeiro contato com Python e C++, que utilizamos conjuntamente para programar Arduínos (C++). Com tais aprendizados, desenvolvi um projeto cujo objetivo era montar um cubo de LED.
 No ensino superior, aproveitei a oportunidade de uma palestra para iniciar um processo seletivo na empresa JetSoft, onde comecei um estágio estando no 2º semestre do curso. No início deste ano, fui efetivado na mesma, ocupando um cargo de Trainee. Atualmente, cerca de 1 mês atrás, fui promovido para Desenvolvedor Júnior 3, na mesma empresa.
 

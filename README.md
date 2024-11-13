@@ -498,7 +498,7 @@ Como proposta de solução, minha equipe e eu separamos o projeto em repositóri
 
 #### Resultado do projeto
 
-Neste projeto, fui responsável pela concepção inicial da IA, definindo o escopo, realizando a leitura e tratamento dos dados com técnicas de processamento de linguagem natural e conduzindo todas as etapas do RAG, incluindo estratégias de chunking, embeddings, e criação do prompt-base. No front-end, fiz melhorias visuais e ajustes para alinhar o design ao protótipo do Figma, garantindo uma interface atraente e funcional.
+Neste projeto, fui responsável pela filtragem dos dados da do dataset, permitindo remover o máximo de informações que poderiam atrapalhar nas respostas da IA, como por exemplo reviews duplicadas exatamente idênticas. No front-end, criei a base de nossa tela principal, estilizando com base em nosso protótipo do Figma, garantindo uma interface atraente e funcional. Além disso, ajudei na construção da funcionalidade de histórico de conversas de nossa IA, funcionalidade esta que permitiria responder perguntas com base em uma feita anteriormente.
 
 </Div>
 
@@ -524,5 +524,5 @@ Neste projeto, fui responsável pela concepção inicial da IA, definindo o esco
 * Comunicação
 > Neste semestre, a comunicação foi muito importante e muito trabalhada. Tivemos a entrada de novos membros na equipe, e para que nosso trabalho tivesse sucesso, nós nos reunimos desde o começo da sprint, para expor nossos pontos de vistas, nossas ideias, e nossas dúvidas. Como o projeto era sobre um assunto relativamente recente, e com imensas possibilidades, trabalhar a comunicação para conseguirmos estar em sintonia foi essencial, e isto foi melhorando cada vez mais ao longo das sprints.
 
-* Resolução de Problemas
-> A resolução de problemas foi fundamental no desenvolvimento do projeto, principalmente ao lidar com desafios técnicos e no aprimoramento das respostas da IA. Durante a fase de tratativa de Processamento de Linguagem Natural (PLN), enfrentei dificuldades em garantir que a IA fornecesse respostas precisas e contextualmente relevantes. Para isso, foi necessário identificar as falhas nos algoritmos e ajustar as abordagens de pré-processamento de dados, como a tokenização e a remoção de ruídos, além de otimizar os modelos de linguagem. Esses ajustes exigiram uma análise detalhada e soluções rápidas, o que me permitiu melhorar a precisão das respostas geradas pela IA, garantindo uma melhor experiência do usuário e a eficiência do sistema.
+* Organização
+> Minha organização neste projeto foi muito aprimorada, principalmente em relação à plataforma GitHub. Pelo fato de ser um projeto que possuem diferentes tecnologias, montar a estrutura em submodulos no GitHub fez com que eu aprendesse mais ainda sobre a plataforma, e pudesse monitorar de forma mais eficiente o controle das versões, juntamente com as branchs. A utilização de Pull Requests também foi muito importante, para não termos conflitos nos códigos da aplicação. Com isto, consegui ajudar na minha organização pessoal, e na organização da equipe como um todo.

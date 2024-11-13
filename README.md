@@ -434,3 +434,87 @@ Neste projeto fiquei responsável pelo back-end, e o no front-end apenas para fa
 ### Demonstração da entrega de uma das sprints do projeto:
  <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
  <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' height='400'>
+
+
+### 2024.2
+
+<Div align="justify" >
+
+> [Link para a API do 6º Semetre](https://github.com/4DeskGroup/API-2024.2)
+
+### Problema
+O projeto do 6º semestre do curso foi desenvolvido em parceria com a Dom Rock, uma empresa de desenvolvimento de software com foco na Inteligência Artificial. A Dom Rock solicitou uma solução de IA que analisasse e extraísse informações de reviews de produtos de e-commerce, ajudando o departamento de compras corporativas a tomar decisões mais informadas na escolha de produtos e fornecedores. A IA deveria simplificar a seleção ao usar o feedback dos consumidores para orientar as decisões de compras.
+
+### Solução proposta
+Como proposta de solução, minha equipe e eu separamos o projeto em repositórios no GitHub, organizados por área (Front-End, Dataset e IA) para assegurar uma colaboração estruturada e eficiente. Na construção da IA, utilizamos como ferramenta o Python e o framework LangChain, utilizado para aplicar as técnicas de LLM (Large Language Model), chunking, embeddings e RAG (Retrieval-Augmented Generation), utilizando o FAISS como nosso banco de dados vetorial para armazenamento e busca otimizada de informações. No Front-End, desenvolvemos uma interface web interativa com VueJS e TypeScript, incluindo um chatbot que permite aos usuários fazerem perguntas e receberem respostas em tempo real, facilitando o acesso e visualização dos insights dos reviews.
+
+### Demonstração da entrega de uma das sprints do projeto
+
+<img width="30%" height="30%" src="https://github.com/4DeskGroup/API-2024.2/blob/main/docs%20sprints/sprint2.gif"/>
+
+</Div>
+
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código do projeto.
+
+  <img width="50 rem" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor"/> VueJS
+  > Utilizamos o framework VueJS para o desenvolvimento de todo o frontend do projeto.
+
+  <img width="50 rem" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/> Python 
+  > Utilizamos a linguagem de programação Python para o desenvolvimento da IA.
+
+  <img width="50 rem" src="https://github.com/NicolasPereira06/Portfolio-TG/blob/main/imagens/simple-icons--langchain%20(2).png"/> LangChain 
+  > Utilizamos a biblioteca LangChain para implementar técnicas de PLN e RAG, incluindo embeddings, chunking.
+
+  <img width="50 rem" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"/> TypeScript 
+  > Utilizamos o TypeScript para o desenvolvimento de todo o frontend do projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git para o versionamento de código, pois mantém um registro completo de todas as alterações, facilita o trabalho em equipe e permite o desenvolvimento de novas funcionalidades de forma organizada.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+ </details>
+ 
+### Contribuições pessoais
+
+<Div align="justify" >
+
+#### Resultado do projeto
+
+Neste projeto, fui responsável pela concepção inicial da IA, definindo o escopo, realizando a leitura e tratamento dos dados com técnicas de processamento de linguagem natural e conduzindo todas as etapas do RAG, incluindo estratégias de chunking, embeddings, e criação do prompt-base. No front-end, fiz melhorias visuais e ajustes para alinhar o design ao protótipo do Figma, garantindo uma interface atraente e funcional.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Front-End(Utilizando VueJS)
+> Sei fazer com autonomia.
+
+* Desenvolvimento Back-End(Utilizando TypeScript)
+> Sei fazer com autonomia.
+
+* Desenvolvimento de IA utilizando Python aplicando técnicas de PLN e RAG(Utilizando LangChain)
+> Sei fazer com autonomia.
+
+* Controle de versionamento (GIT)
+> Sei fazer com autonomia.
+
+### Soft skills
+
+* Proatividade
+> Devido ao uso de tecnologias que não havíamos nos aprofundado tanto, a proatividade foi colocada a prova, essencialmente no início, para garantir um desenvolvimento concreto e a evolução da inteligência artificial. Com as diversas pesquisas realizadas por mim e minha equipe, no momento em que começamos a construir a IA, já fui em busca de diferentes maneiras de filtrar os dados do nosso dataset base, para que as respostas da IA fossem mais precisas. Além disso, fui proativo ao verificar com meus companheiros de equipe em quais atividades da sprint eles estavam com dificuldades, assim pude ajudá-los, garantindo nossas entregas e evoluindo cada vez mais minhas habilidades.
+
+* Comunicação
+> Neste semestre, a comunicação foi muito importante e muito trabalhada. Tivemos a entrada de novos membros na equipe, e para que nosso trabalho tivesse sucesso, nós nos reunimos desde o começo da sprint, para expor nossos pontos de vistas, nossas ideias, e nossas dúvidas. Como o projeto era sobre um assunto relativamente recente, e com imensas possibilidades, trabalhar a comunicação para conseguirmos estar em sintonia foi essencial, e isto foi melhorando cada vez mais ao longo das sprints.
+
+* Resolução de Problemas
+> A resolução de problemas foi fundamental no desenvolvimento do projeto, principalmente ao lidar com desafios técnicos e no aprimoramento das respostas da IA. Durante a fase de tratativa de Processamento de Linguagem Natural (PLN), enfrentei dificuldades em garantir que a IA fornecesse respostas precisas e contextualmente relevantes. Para isso, foi necessário identificar as falhas nos algoritmos e ajustar as abordagens de pré-processamento de dados, como a tokenização e a remoção de ruídos, além de otimizar os modelos de linguagem. Esses ajustes exigiram uma análise detalhada e soluções rápidas, o que me permitiu melhorar a precisão das respostas geradas pela IA, garantindo uma melhor experiência do usuário e a eficiência do sistema.

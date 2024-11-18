@@ -364,7 +364,7 @@ No projeto deste semestre, atuei tanto na parte de backend, quanto na parte de f
 > A partir desse semestre, tive a oportunidade de me conectar com uma nova equipe, onde pude aperfeiçoar a minha comunicação, pois, as ideias individuais agregaram o coletivo nas soluções das futuras entregas de valor, possibilitando o meu desenvolvimento e crescimento pessoal.
  
 * Inteligência emocional
-> Adquirida num momento em que era necessário entender o ponto de vista e o sentimento de meu companheiro de equipe.
+> Adquirida num momento em que era necessário entender o ponto de vista e o sentimento de meu companheiro de equipe. Quando estávamos desenvolvendo as telas principais, que faziam funcionar o fluxo do sistema, tivemos que nos colocar no lugar do cliente, como um usuário, e para isso, tivemos que considerar nossos companheiros de equipe como nossos clientes, para que pudéssemos atender realmente suas necessidades. Fazendo isso, conseguimos perceber que o entendimento de um, não estava sendo o entendimento do outro, e que haviam dúvidas, e para resolver isso, buscamos entender o motivo das dúvidas, e trabalhar nelas juntos.
 
 * Liderança
 > Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto. Um exemplo é: no momento em que decidimos os critérios de entrega, onde me ofereci para iniciar a parte de modelagem do banco de dados, podendo assim repassar para os demais membros do grupo a seguir.

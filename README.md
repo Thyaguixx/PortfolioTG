@@ -128,10 +128,10 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 > [Link para a API do 2º Semetre](https://github.com/Thyaguixx/API--2-ADS)
 
 ### Problema
-No projeto do 2º Semestre do curso, identificou-se uma necessidade crítica da TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A empresa enfrenta desafios na gestão e segurança de dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP e credenciais de acesso, incluindo senhas e tokens dos clientes.
+No projeto do 2º Semestre do curso, identificou-se uma necessidade crítica da TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A empresa fazia a gestão e segurança de dados sensíveis de seus clientes parceiros, como canais de marketplaces, meios de pagamento, plataformas ERP e credenciais de acesso, incluindo senhas e tokens, de forma desorganizada e descentralizada, tendo assim muitas dificuldades na integridade dos dados.
 
 ### Solução proposta
-Para solucionar esse problema, foi proposto o desenvolvimento de um aplicativo Desktop, para o registro de canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, permitindo à TrackCash interagir de maneira eficiente com as informações coletadas. O aplicativo foi criado utilizando tecnologias como Java para o desenvolvimento do front-end e back-end, e MySQL como sistema de gerenciamento de banco de dados. Essa abordagem não só atendeu às necessidades específicas do cliente, mas também proporcionou uma interface amigável e um funcionamente de aprendizado simples e rápido, melhorando significativamente a eficiência e produtividade do cliente.
+Para solucionar esse problema, foi proposto o desenvolvimento de um aplicativo Desktop, para o registro de canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, permitindo à TrackCash interagir de maneira eficiente com as informações coletadas, de forma centralizada. O aplicativo foi criado utilizando tecnologias como Java para o desenvolvimento do front-end e back-end, e MySQL como sistema de gerenciamento de banco de dados. Essa abordagem não só atendeu às necessidades específicas do cliente, mas também proporcionou uma interface amigável e um funcionamente de aprendizado simples e rápido, melhorando significativamente a eficiência e produtividade do cliente.
 
 ### Demonstração da entrega de uma das sprints do projeto
 
@@ -186,7 +186,7 @@ Neste projeto, fiquei responsável pelo backend, onde montei a lógica para a re
 > Trabalhei muito a minha comunicação no projeto deste semestre, principalmente em momentos cruciais na parte de arquitetura do projeto como um todo. Também foi necessário durante uma das sprints, que tivemos desavenças com um de nossos membros da equipe, e tivemos que fazer uma decisão para que não fossemos prejudicados e que todos estivessem em um ambiente agrádavel para se trabalhar no projeto.
  
 * Proatividade
-> Melhorei muito em relação à API do 1º Semestre, principalmente por envolver utilização de banco de dados SQL neste projeto. Consegui ser muito proativo quando pude adiantar itens de sprints futuras ao longo do projeto.
+> Melhorei muito em relação à API do 1º Semestre, principalmente por envolver utilização de banco de dados SQL neste projeto. Consegui ser muito proativo quando pude adiantar itens de sprints futuras ao longo do projeto. Toda a parte de back-end que envolvia o uso de query SQL, foi feita por mim, de forma que qualquer outro membro da equipe conseguisse entender para que pudessem fazer a manutenção caso necessário.
 
 * Trabalho em equipe
 > O trabalho em equipe foi essencial neste projeto, pelo fato de utilizar novas ferramentas que não conhecíamos ainda. Cada descoberta era compartilhada com o time, fazendo com que o aprendizado de todos evoluíssem. Um exemplo de uma das sprint que tivemos, foi que eu havia feito o backend dos cadastros de canais e usuários, porém eu não sabia como colocar na parte de frontend, foi aí que um de meus colegas de equipe, que já havia feito uma parte do frontend, me mostrou como ele fez e como eu poderia fazer. Isto foi de grande ajuda, pois durante as próximas atividades que fui realizando, pude aplicar os mesmo conhecimentos.

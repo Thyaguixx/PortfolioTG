@@ -53,7 +53,7 @@ Alguns dos cursos realizados e certificados.
 > [Link para a API do 1º Semetre](https://github.com/Thyaguixx/API--1-ADS)
 
 ### Problema
-O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso surgiu a partir de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação, abrangendo diversas áreas de atuação. Essa lacuna dificultava a busca de alunos e profissionais por oportunidades relevantes, tornando o processo mais trabalhoso e ineficiente.
+O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso surgiu a partir de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O cliente procurava vagas e cursos fazendo pesquisas manuais, indo de site em site, fazendo com que a busca por oportunidades demorasse muito.
 
 ### Solução proposta
 A solução proposta foi o desenvolvimento de um sistema web para automatizar o processo de catalogar vagas de diversas profissões, principalmente TI, e configurar métricas para pontos como tipos de conhecimento, habilidades e competências, utilizando técnicas de raspagem de dados para coletar informações relevantes de diversas fontes. O site oferece uma interface amigável e organizada, fazendo com que os usuários busquem e visualizem facilmente as oportunidades disponíveis em um único local. As tecnologias utilizadas (HTML, CSS e Python) fizeram com que fosse possível ter um sistema agradável e funcional, aumentando a produtividade para o cliente.
@@ -110,13 +110,13 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 ### Soft skills
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
+> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída. Por ser o primeiro API do curso, muitos de nós estavámos um pouco eufóricos com a metodologia proposta, por ser algo que nunca havíamos feito antes. Como eu já havia participado de um projeto semelhante em meu ensino médio, tomei a frente para que todos tivessem um ritmo durante todo o projeto. Com minha experiência, pude ajudá-los a manterem o foco, sem muito medo do desconhecido.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas. Nós estavamos nos conhecendo ainda, como colegas de equipe, e por meio da comunicação, pude entender e ver o quanto meus colegas já sabiam sobre determinada tecnologia, permitindo assim eu ajudá-los e eles me ajudarem com futuras dúvidas.
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints. Na primeira sprint, estávamos nos entrosando como companheiros de equipe. Já nas seguintes, evoluimos muito como equipe, e já estavamos conseguindo ter um ótimo resultado e um ótimo trabalho em equipe.
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints. Como eu já havia tido experiência com algumas das tecnologias que foram requisitadas no projeto, na primeira sprint tomei a liberdade de começar os esboços do sistema, já utilizando as tecnologias exigidas, para que eu pudesse ajudar os meus companheiros e adiantasse o processo de desenvolvimento.
 
 * Trabalho em equipe
 > Adquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto. Sendo o primeiro semestre, todos os integrantes da equipe tinham dúvidas das tecnologias, e aqueles que já sabiam como funcionavam, eram de grande ajuda para conseguirmos bons resultados e evoluir nosso aprendizado.

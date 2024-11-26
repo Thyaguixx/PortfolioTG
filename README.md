@@ -198,10 +198,10 @@ Neste projeto, fiquei responsável pelo backend, onde montei a lógica para a re
 > [Link para a API do 3º Semetre](https://github.com/Thyaguixx/API--3-ADS)
 
 ### Problema
-O projeto 3º Semestre do curso teve como parceira a Visiona, uma empresa do setor espacial, voltada para a integração de sistemas espaciais e à prestação de serviços baseados em satélites. O problema identificado foi a necessidade de uma aplicação centralizada para gerenciar usuários. A Visiona buscava uma ferramenta que facilitasse o controle de usuários no sistema, permitindo aos administradores realizar operações como cadastros e edições de forma eficiente.
+O projeto 3º Semestre do curso teve como parceira a Visiona, uma empresa do setor espacial, voltada para a integração de sistemas espaciais e à prestação de serviços baseados em satélites. O cliente tinha problemas com a gestão de seus funcionários e colaboradores externos, fazendo a interação entre as pessoas de diferentes cargos, e as informações passadas a eles, ficassem desorganizadas. O cliente não possui uma maneira de centralizar este gerenciamento.
 
 ### Solução proposta
-A solução proposta foi um sistema de Gerenciamento de Usuários baseado em tecnologia de microserviços. A aplicação permite que os usuários sejam criados, visualizados, editados e removidos de maneira intuitiva e segura. Utilizando React para o front-end e JavaScript para o back-end, além de PostgreSQL para gerenciamento de banco de dados, o sistema proporciona uma interface amigável e funcional, como login, recuperação de senha e dashboards informativos. A implementação e o deployment foram realizados na plataforma Vercel, garantindo uma solução completa e integrada para a Visiona.
+A solução proposta foi um sistema de Gerenciamento de Usuários baseado em tecnologia de microserviços. A aplicação permite que os usuários sejam criados, visualizados, editados e removidos de maneira intuitiva e segura, tendo o usuário de tipo Administrador com o controle total do sistema. Utilizando React para o front-end e JavaScript para o back-end, além de PostgreSQL para gerenciamento de banco de dados, o sistema proporciona uma interface amigável e funcional, como login, recuperação de senha e dashboards informativos. A implementação e o deployment foram realizados na plataforma Vercel, garantindo uma solução completa e integrada para a Visiona.
 
 ### Demonstração da entrega de uma das sprints do projeto
 
@@ -274,10 +274,10 @@ Neste projeto, fiquei responsável pela parte do backend como um todo, isso incl
 Além das citadas acima:
 
 * Gerenciamento do tempo
-> Adquirida meio da organização e gestão eficiente do tempo, dando prioridade às tarefas e garantindo o cumprimento dos prazos. Isso se tornou crucial devido ao fato de que a tecnologia utilizada era nova para mim, sendo uma grande mudança em relação a uma aplicação Desktop, exigindo uma dedicação adicional para pesquisa e estudo.
+> Adquirida meio da organização e gestão eficiente do tempo, dando prioridade às tarefas e garantindo o cumprimento dos prazos. Isso se tornou crucial devido ao fato de que a tecnologia utilizada era nova para mim, sendo uma grande mudança em relação a uma aplicação Desktop, exigindo uma dedicação adicional para pesquisa e estudo. Gerenciar o tempo de estudos, e o tempo de realizar pequenos testes em cima destes estudos, foi muito importante para que, na hora que eu fosse aplicar na API, não tivesse muitas dificuldades.
 
 * Adaptabilidade
-> Segui um dos princípios ágeis: "Mudanças são bem-vindas, mesmo que tardiamente". Adquirida com o desafio de me adaptar às uma novas tecnologias.
+> Segui um dos princípios ágeis: "Mudanças são bem-vindas, mesmo que tardiamente". Adquirida com o desafio de me adaptar às uma novas tecnologias. Ao contário do 2º semestre, que utilizamos Java para uma aplicação Desktop, neste semestre voltamos para desenvolvimento web, porém utilizando um dos grandes frameworks front-end, o React. Com muita dedicação e estudos, consegui me adaptar rápido fazendo com que minha produtividade aumentasse, e que eu fosse capaz de realizar as atividades de front-end mais facilmente.
 
 ### Em 2023-2
 

@@ -286,7 +286,7 @@ Além das citadas acima:
 > [Link para a API do 4º Semetre](https://github.com/Thyaguixx/API-2023.2)
 
 ### Problema
-O projeto do 4º Semestre no curso envolveu uma parceiria com a Greenneat, uma empresa do ramo de controle e descarte de óleo usado. O problema identificado pelo cliente foi a falta de uma plataforma para gerenciar seus usuários e seus créditos, que funcionavam como moedas de troca para transações de óleo usado, permitindo assim seus clientes obterem benefícios e descontos na loja virtual da empresa. A Greenneat necessitava de uma solução que permitisse o controle destas transações de créditos, tanto na compra e venda, além de uma ferramenta para gerenciar esses usuários de forma centralizada.
+O projeto do 4º Semestre no curso envolveu uma parceiria com a Greenneat, uma empresa do ramo de controle e descarte de óleo usado. O cliente realizava a troca de óleo e créditos através de uma ligação com seus clientes parceiros, e as informações destas trocas eram guardadas de forma manual, utilizando blocos de anotações, cadernetas, entre outras. Isso começou a se tornar um problema, pois muitas vezes a informação dita pelo parceiro durante a ligação, não era anotada, fazendo com que esta informação se perdesse causando uma confusão e um desentendimento entre o cliente e seus parceiros, prejudicando ambos os lados. A Greenneat necessitava de uma solução que permitisse o controle destas transações de créditos, tanto na compra e venda, além de uma ferramenta para gerenciar esses usuários de forma centralizada,  permitindo assim seus clientes obterem benefícios e descontos na loja virtual da empresa.
 
 ### Solução proposta
 O desenvolvimento de uma plataforma capaz de gerenciar os créditos de uma forma centralizada, possibilitando os usuários acompanharem suas ações durante o processo de coleta. A aplicação foi desenvolvida utilizando React para o front-end, JavaScript com TypeScript para o back-end, e PostgreSQL como sistema de gerenciamento de banco de dados. O sistema inclui funcionalidades de login, recuperação de senha e gerenciamento de créditos, além de uma interface intuitiva com uma navegação simples e a visualização das informações essenciais. Para o deploy da aplicação, seguimos utilizando uma plataforma já utilizada anteriormente em outros projetos, o Vercel, podendo assim ter um acesso fácil para nosso cliente, a GREENNEAT.
@@ -361,13 +361,13 @@ No projeto deste semestre, atuei tanto na parte de backend, quanto na parte de f
 ### Soft skills
 
 * Comunicação eficaz
-> A partir desse semestre, tive a oportunidade de me conectar com uma nova equipe, onde pude aperfeiçoar a minha comunicação, pois, as ideias individuais agregaram o coletivo nas soluções das futuras entregas de valor, possibilitando o meu desenvolvimento e crescimento pessoal.
+> A partir desse semestre, tive a oportunidade de me conectar com uma nova equipe, onde pude aperfeiçoar a minha comunicação, pois, as ideias individuais agregaram o coletivo nas soluções das futuras entregas de valor, possibilitando o meu desenvolvimento e crescimento pessoal. Por estar em um ambiente de trabalho em equipe diferente, conseguir me comunicar de forma clara foi essencial para ter uma boa vivência e agregar valor para minha nova equipe.
  
 * Inteligência emocional
 > Adquirida num momento em que era necessário entender o ponto de vista e o sentimento de meu companheiro de equipe. Quando estávamos desenvolvendo as telas principais, que faziam funcionar o fluxo do sistema, tivemos que nos colocar no lugar do cliente, como um usuário, e para isso, tivemos que considerar nossos companheiros de equipe como nossos clientes, para que pudéssemos atender realmente suas necessidades. Fazendo isso, conseguimos perceber que o entendimento de um, não estava sendo o entendimento do outro, e que haviam dúvidas, e para resolver isso, buscamos entender o motivo das dúvidas, e trabalhar nelas juntos.
 
 * Liderança
-> Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto. Um exemplo é: no momento em que decidimos os critérios de entrega, onde me ofereci para iniciar a parte de modelagem do banco de dados, podendo assim repassar para os demais membros do grupo a seguir.
+> Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto. Um exemplo é: no momento em que decidimos os critérios de entrega, onde me ofereci para iniciar a parte de modelagem do banco de dados, podendo assim repassar para os demais membros do grupo a seguir. A ideia para começar o projeto não era complicada, porém a regra de negócio do cliente era de extrema importância ter um entendimento concreto, para poder ter um fluxo totalmente viável no sistema, e por isso decidi tomar a liderança na criação do banco de dados, pois já estava pensando no fluxo do sistema como um todo.
 
 ### Em 2024-1
 
@@ -376,7 +376,7 @@ No projeto deste semestre, atuei tanto na parte de backend, quanto na parte de f
 > [Link para a API do 5º Semestre](https://github.com/4DeskGroup/API-2024.1)
 
 ### Problema
-O projeto integrador do 5º Semestre no curso teve a participação de uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs, a Oracle. O desafio identificado foi o desenvolvimento de uma aplicação mobile que gerenciasse o sistema de progressão de trilhas de conhecimento e especializações dos parceiros cadastrados no sistema da empresa. A Oracle precisava de uma solução que centralizasse essas informações de parceiros, trilhas de aprendizado e especializações vinculadas, além de poder monitorar o progresso de seus parceiros. Era de extrema importância também que a aplicação oferecesse diferentes níveis de acesso para administradores, garantindo assim a segurança e a personalização das informações acessíveis a cada usuário.
+O projeto integrador do 5º Semestre no curso teve a participação de uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs, a Oracle. O problema do cliente era conseguir acompanhar e gerenciar a progressão de trilhas de conhecimento e especializações de seus parceiros. Somente nas reuniões semanais que a equipe da Oracle realizava com seus parceiros que conseguiam ver o desempenho deles nas trilhas e saber como seria o andamento daquela parceria, e se haveria novas metas com aquele parceiro. A Oracle precisava de uma solução que centralizasse essas informações de parceiros, trilhas de aprendizado e especializações vinculadas, além de poder monitorar o progresso de seus parceiros. Era de extrema importância também que esta solução pudesse ser o mais remota possível.
 
 ### Solução proposta
 Para solucionar este problema, desenvolvemos uma plataforma para dispositivos móveis, utilizando React Native, que possibilita uma gestão eficiente de informações relacionadas aos parceiros e suas trilhas. O sistema foi projetado para permitir o acompanhamento do desenvolvimento dos parceiros através de dashboards interativas, incluindo relatórios detalhados sobre suas atividades. Utilizamos o MongoDB, um banco de dados não relacional, para armazenar os dados de nossa aplicação. O desenvolvimento incluiu tanto o front-end quanto o back-end, permitindo a integração de funções críticas que garantem a fluidez e a funcionalidade da plataforma, atendendo assim às demandas da Oracle de forma eficaz e escalável.
@@ -437,11 +437,11 @@ Neste projeto fiquei responsável pelo back-end, e o no front-end apenas para fa
 
 ### Soft skills
 
-* Comunicação 
-> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto.
+* Comunicação
+> Neste semestre, melhorei ainda mais minha comunicação, pois tive situações em que uma comunicação acertiva, era necessária. No começo da sprint, tivemos muitas dúvidas em relação à regra de negócio de nosso cliente, e como uma forma de entender melhor, fui atrás de conversas com o professor P2, junto da PO de minha equipe, focando sempre em falar minhas dúvidas e comunicando de forma clara. Isto foi essencial para que eu melhorasse ainda mais minha comunicação e que eu pudesse ter o entendimento do projeto como um todo.
  
 * Proatividade
-> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias. Realizei spikes (pequenos testes utilizando a ferramenta que iríamos utilizar) durante nossa sprint 0, para termos uma boa base no começo do desenvolvimento da aplicação.
+> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias. Realizei spikes (pequenos testes utilizando a ferramenta que iríamos utilizar) durante nossa sprint 0, para termos uma boa base no começo do desenvolvimento da aplicação. Tomei essa iniciativa pois iriamos utilizar uma ferramenta que ainda não haviamos visto, o MongoDB. Estes spikes foram de extrema importância para termos uma base sólida para começar, e para termos códigos exemplos para os companheiros de equipe.
 
 
 ### 2024.2

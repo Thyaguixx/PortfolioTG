@@ -110,16 +110,16 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 ### Soft skills
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída. Por ser o primeiro API do curso, muitos de nós estavámos um pouco eufóricos com a metodologia proposta, por ser algo que nunca havíamos feito antes. Como eu já havia participado de um projeto semelhante em meu ensino médio, tomei a frente para que todos tivessem um ritmo durante todo o projeto. Com minha experiência, pude ajudá-los a manterem o foco, sem muito medo do desconhecido.
+> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída. Por ser o primeiro API do curso, muitos de nós estavámos um pouco eufóricos com a metodologia proposta, por ser algo que nunca havíamos feito antes. Como eu já havia participado de um projeto semelhante em meu ensino médio, tomei a frente para que todos tivessem um ritmo durante todo o projeto. Com minha experiência já trabalhando em projeto com equipes, sugeri o uso do Trello, para gerenciar nossas atividades da sprint.
 
 * Comunicação 
 > Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas. Nós estavamos nos conhecendo ainda, como colegas de equipe, e por meio da comunicação, pude entender e ver o quanto meus colegas já sabiam sobre determinada tecnologia, permitindo assim eu ajudá-los e eles me ajudarem com futuras dúvidas.
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints. Como eu já havia tido experiência com algumas das tecnologias que foram requisitadas no projeto, na primeira sprint tomei a liberdade de começar os esboços do sistema, já utilizando as tecnologias exigidas, para que eu pudesse ajudar os meus companheiros e adiantasse o processo de desenvolvimento.
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints. Como eu já havia tido experiência com Python e um pouco de HTML e CSS, tecnologias requisitadas no projeto, na primeira sprint tomei a liberdade de começar os esboços do sistema, para que eu pudesse ajudar os meus companheiros e adiantasse o processo de desenvolvimento.
 
 * Trabalho em equipe
-> Adquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto. Sendo o primeiro semestre, todos os integrantes da equipe tinham dúvidas das tecnologias, e aqueles que já sabiam como funcionavam, eram de grande ajuda para conseguirmos bons resultados e evoluir nosso aprendizado.
+> Adquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto. Sendo o primeiro semestre, todos os integrantes da equipe tinham dúvidas, e por ser um ambiente novo de interação, ajudei minha equipe com a linguagem Python, que eu já tinha uma familiaridade, assim como alguns membros me ajudaram com HTML e CSS, ferramentas que não havia me aprofundado tanto anteriormente.
 
 ### Em 2022-2
 
@@ -128,7 +128,7 @@ Neste projeto fiquei responsável tanto pelo Front-End, quanto pelo Back-End. Na
 > [Link para a API do 2º Semetre](https://github.com/Thyaguixx/API--2-ADS)
 
 ### Problema
-No projeto do 2º Semestre do curso, identificou-se uma necessidade crítica da TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A empresa fazia a gestão e segurança de dados sensíveis de seus clientes parceiros, como canais de marketplaces, meios de pagamento, plataformas ERP e credenciais de acesso, incluindo senhas e tokens, de forma desorganizada e descentralizada, tendo assim muitas dificuldades na integridade dos dados.
+No projeto do 2º Semestre do curso, identificou-se uma necessidade crítica da TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A empresa fazia a gestão e segurança de dados sensíveis de seus clientes parceiros, como canais de marketplaces, meios de pagamento, plataformas ERP e credenciais de acesso, incluindo senhas e tokens, de forma desorganizada e descentralizada, tendo assim muitas dificuldades na integração dos dados.
 
 ### Solução proposta
 Para solucionar esse problema, foi proposto o desenvolvimento de um aplicativo Desktop, para o registro de canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, permitindo à TrackCash interagir de maneira eficiente com as informações coletadas, de forma centralizada. O aplicativo foi criado utilizando tecnologias como Java para o desenvolvimento do front-end e back-end, e MySQL como sistema de gerenciamento de banco de dados. Essa abordagem não só atendeu às necessidades específicas do cliente, mas também proporcionou uma interface amigável e um funcionamente de aprendizado simples e rápido, melhorando significativamente a eficiência e produtividade do cliente.
@@ -183,7 +183,7 @@ Neste projeto, fiquei responsável pelo backend, onde montei a lógica para a re
 ### Soft skills
 
 * Comunicação 
-> Trabalhei muito a minha comunicação no projeto deste semestre, principalmente em momentos cruciais na parte de arquitetura do projeto como um todo. Também foi necessário durante uma das sprints, que tivemos desavenças com um de nossos membros da equipe, e tivemos que fazer uma decisão para que não fossemos prejudicados e que todos estivessem em um ambiente agrádavel para se trabalhar no projeto.
+> Trabalhei muito a minha comunicação no projeto deste semestre, principalmente em momentos cruciais na parte de arquitetura do projeto como um todo. Também foi necessário durante uma das sprints, que tivemos desavenças com um de nossos membros da equipe, e tivemos que fazer uma decisão: demitir este membro da equipe, para que não fossemos prejudicados e que todos estivessem em um ambiente agrádavel para se trabalhar no projeto.
  
 * Proatividade
 > Melhorei muito em relação à API do 1º Semestre, principalmente por envolver utilização de banco de dados SQL neste projeto. Consegui ser muito proativo quando pude adiantar itens de sprints futuras ao longo do projeto. Toda a parte de back-end que envolvia o uso de query SQL, foi feita por mim, de forma que qualquer outro membro da equipe conseguisse entender para que pudessem fazer a manutenção caso necessário.
@@ -198,7 +198,7 @@ Neste projeto, fiquei responsável pelo backend, onde montei a lógica para a re
 > [Link para a API do 3º Semetre](https://github.com/Thyaguixx/API--3-ADS)
 
 ### Problema
-O projeto 3º Semestre do curso teve como parceira a Visiona, uma empresa do setor espacial, voltada para a integração de sistemas espaciais e à prestação de serviços baseados em satélites. O cliente tinha problemas com a gestão de seus funcionários e colaboradores externos, fazendo a interação entre as pessoas de diferentes cargos, e as informações passadas a eles, ficassem desorganizadas. O cliente não possui uma maneira de centralizar este gerenciamento.
+O projeto 3º Semestre do curso teve como parceira a Visiona, uma empresa do setor espacial, voltada para a integração de sistemas espaciais e à prestação de serviços baseados em satélites. O cliente tinha problemas com a gestão de seus funcionários e colaboradores externos, fazendo a interação entre as pessoas de diferentes cargos, e as informações passadas a eles, ficassem desorganizadas. O cliente não possuía uma maneira de centralizar este gerenciamento.
 
 ### Solução proposta
 A solução proposta foi um sistema de Gerenciamento de Usuários baseado em tecnologia de microserviços. A aplicação permite que os usuários sejam criados, visualizados, editados e removidos de maneira intuitiva e segura, tendo o usuário de tipo Administrador com o controle total do sistema. Utilizando React para o front-end e JavaScript para o back-end, além de PostgreSQL para gerenciamento de banco de dados, o sistema proporciona uma interface amigável e funcional, como login, recuperação de senha e dashboards informativos. A implementação e o deployment foram realizados na plataforma Vercel, garantindo uma solução completa e integrada para a Visiona.
@@ -274,10 +274,10 @@ Neste projeto, fiquei responsável pela parte do backend como um todo, isso incl
 Além das citadas acima:
 
 * Gerenciamento do tempo
-> Adquirida meio da organização e gestão eficiente do tempo, dando prioridade às tarefas e garantindo o cumprimento dos prazos. Isso se tornou crucial devido ao fato de que a tecnologia utilizada era nova para mim, sendo uma grande mudança em relação a uma aplicação Desktop, exigindo uma dedicação adicional para pesquisa e estudo. Gerenciar o tempo de estudos, e o tempo de realizar pequenos testes em cima destes estudos, foi muito importante para que, na hora que eu fosse aplicar na API, não tivesse muitas dificuldades.
+> Adquirida meio da organização e gestão eficiente do tempo, dando prioridade às tarefas e garantindo o cumprimento dos prazos. Neste semestre, eu já estava estagiando, com carga de 6h diárias, por isso precisei gerenciar meu tempo para conseguir focar no estágio e no projeto. Dediquei todos os dias pelo menos 1 hora para estudar front-end React com back-end em TypeScript.
 
 * Adaptabilidade
-> Segui um dos princípios ágeis: "Mudanças são bem-vindas, mesmo que tardiamente". Adquirida com o desafio de me adaptar às uma novas tecnologias. Ao contário do 2º semestre, que utilizamos Java para uma aplicação Desktop, neste semestre voltamos para desenvolvimento web, porém utilizando um dos grandes frameworks front-end, o React. Com muita dedicação e estudos, consegui me adaptar rápido fazendo com que minha produtividade aumentasse, e que eu fosse capaz de realizar as atividades de front-end mais facilmente.
+> Segui um dos princípios ágeis: "Mudanças são bem-vindas, mesmo que tardiamente". Adquirida com o desafio de me adaptar às uma novas tecnologias. Ao contário do 2º semestre, que utilizamos Java para uma aplicação Desktop, neste semestre voltamos para desenvolvimento web, porém utilizando um dos grandes frameworks front-end, o React, e com muita dedicação e estudos, me adaptei rápido fazendo com que minha produtividade aumentasse, e que eu fosse capaz de realizar as atividades de front-end mais facilmente.
 
 ### Em 2023-2
 
@@ -366,8 +366,8 @@ No projeto deste semestre, atuei tanto na parte de backend, quanto na parte de f
 * Inteligência emocional
 > Adquirida num momento em que era necessário entender o ponto de vista e o sentimento de meu companheiro de equipe. Quando estávamos desenvolvendo as telas principais, que faziam funcionar o fluxo do sistema, tivemos que nos colocar no lugar do cliente, como um usuário, e para isso, tivemos que considerar nossos companheiros de equipe como nossos clientes, para que pudéssemos atender realmente suas necessidades. Fazendo isso, conseguimos perceber que o entendimento de um, não estava sendo o entendimento do outro, e que haviam dúvidas, e para resolver isso, buscamos entender o motivo das dúvidas, e trabalhar nelas juntos.
 
-* Liderança
-> Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto. Um exemplo é: no momento em que decidimos os critérios de entrega, onde me ofereci para iniciar a parte de modelagem do banco de dados, podendo assim repassar para os demais membros do grupo a seguir. A ideia para começar o projeto não era complicada, porém a regra de negócio do cliente era de extrema importância ter um entendimento concreto, para poder ter um fluxo totalmente viável no sistema, e por isso decidi tomar a liderança na criação do banco de dados, pois já estava pensando no fluxo do sistema como um todo.
+* Proatividade
+> Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto. Um exemplo é: no momento em que decidimos os critérios de entrega, onde me ofereci para iniciar a parte de modelagem do banco de dados, podendo assim repassar para os demais membros do grupo a seguir. A ideia para começar o projeto não era complicada, porém a regra de negócio do cliente era de extrema importância ter um entendimento concreto, para poder ter um fluxo totalmente viável no sistema, e por isso decidi tomar a responsabilidade para a criação do banco de dados, pois já estava pensando no fluxo do sistema como um todo.
 
 ### Em 2024-1
 
